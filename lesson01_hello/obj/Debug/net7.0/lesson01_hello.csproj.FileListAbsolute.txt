@@ -1,0 +1,14 @@
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/bin/Debug/net7.0/lesson01_hello
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/bin/Debug/net7.0/lesson01_hello.deps.json
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/bin/Debug/net7.0/lesson01_hello.runtimeconfig.json
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/bin/Debug/net7.0/lesson01_hello.dll
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/bin/Debug/net7.0/lesson01_hello.pdb
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/obj/Debug/net7.0/lesson01_hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/obj/Debug/net7.0/lesson01_hello.AssemblyInfoInputs.cache
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/obj/Debug/net7.0/lesson01_hello.AssemblyInfo.cs
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/obj/Debug/net7.0/lesson01_hello.csproj.CoreCompileInputs.cache
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/obj/Debug/net7.0/lesson01_hello.dll
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/obj/Debug/net7.0/refint/lesson01_hello.dll
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/obj/Debug/net7.0/lesson01_hello.pdb
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/obj/Debug/net7.0/lesson01_hello.genruntimeconfig.cache
+/Users/katebubnova/Downloads/C_Sharp/lesson01_hello/obj/Debug/net7.0/ref/lesson01_hello.dll
