@@ -20,3 +20,19 @@
 //    Console.WriteLine("you input not three-digit number");
 //}
 
+//Задача 3. Вводим число n, выводим с противоположного до n
+
+//Console.WriteLine("input number");
+//int n = Conver.ToInt32(Console.ReadLine());
+//int count = -n;
+//while (count <= n)
+//  Console.WriteLine(count++ + " ");
+
+//либо так
+//Console.WriteLine("input number: ");
+//int n = Conver.ToInt32(Console.ReadLine());
+//int m = n*(-1);
+//while (m <= n)
+//{
+//    Console.Write($"{m++} ",");
+//}
