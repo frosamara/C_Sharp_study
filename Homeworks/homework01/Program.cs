@@ -74,25 +74,15 @@
 //     }
 // }
 
-
-        Console.WriteLine("Write number n: ");
-        int n = Convert.ToInt32(Console.ReadLine());
-        int i = 1;
-        while (i < n)
-        {
-            if (i % 2 == 0)
-            {
-                Console.WriteLine(i);
-            }
-            Console.WriteLine(i+ " ");
-        }
-  
-
-
-//while (i<=N)
-// {
-// bool result = i % 2 == 0
-// if (result)
-// {write(i)}
-// i++
-// }
+//все сделали через for, код работает. а через while где ошибка?
+Console.WriteLine("Write number n: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int i = 1;
+while (i < n)
+{
+    if (i % 2 == 0)
+    {
+        Console.WriteLine(i);
+    }
+    Console.WriteLine(i+ " ");
+}
