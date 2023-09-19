@@ -64,12 +64,35 @@
 //5 -> 2, 4
 //8 -> 2, 4, 6,8
 
-// Console.WriteLine("Input number n");
+// Console.WriteLine("Write number n: ");
 // int n = Convert.ToInt32(Console.ReadLine());
-// int i = 1;
-// while (i<= n)
-//     if (i % 2 ==0)
+// for (int i = 1; i <= n; i++)
+// {
+//     if (i % 2 == 0) 
 //     {
-//         Console.WriteLine();
+//         Console.Write(i + " ");
 //     }
-// Console.WriteLine(i++ + " ");
+// }
+
+
+        Console.WriteLine("Write number n: ");
+        int n = Convert.ToInt32(Console.ReadLine());
+        int i = 1;
+        while (i < n)
+        {
+            if (i % 2 == 0)
+            {
+                Console.WriteLine(i);
+            }
+            Console.WriteLine(i+ " ");
+        }
+  
+
+
+//while (i<=N)
+// {
+// bool result = i % 2 == 0
+// if (result)
+// {write(i)}
+// i++
+// }
